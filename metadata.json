@@ -1,0 +1,7 @@
+{
+  "name": "Self Study History",
+  "description": "An AI-powered study assistant that generates detailed notes, creates audio podcasts from text, and engages in real-time conversations to help you learn any topic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
